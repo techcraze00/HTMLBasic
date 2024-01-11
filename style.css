@@ -1,4 +1,9 @@
-body
+header a
 {
-    background-color: rebeccapurple;
+    color: orangered;
+}
+
+.current
+{
+    color: blue;
 }
